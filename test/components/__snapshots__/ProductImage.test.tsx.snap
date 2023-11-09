@@ -14,7 +14,7 @@ exports[`ProductImage Debe de mostrar el componente con la imagen del producto 1
 
 exports[`ProductImage Debe de mostrar el componente correctamente la imagen personalizada 1`] = `
 <img
-  alt="No Description"
+  alt="No Description!"
   className="productImg custom-class"
   src="./coffee-mug.png"
 />
